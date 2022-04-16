@@ -53,3 +53,10 @@ article {
     font-size: 180x;
     line-height: 32px;
 }
+
+img {
+    width: 400px;
+    height: 300px;
+    position: relative;
+    right: 28px;
+}
