@@ -101,3 +101,9 @@ video {
     height: 250px;
     padding: 15px;
 }
+
+audio {
+    padding: 15px;
+    width: 98%;
+    box-sizing: border-box;
+}
