@@ -107,3 +107,9 @@ audio {
     width: 98%;
     box-sizing: border-box;
 }
+
+embed {
+    width: 400px;
+    height: 450px;
+    padding: 15px;
+}
