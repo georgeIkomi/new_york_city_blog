@@ -78,3 +78,19 @@ footer {
     bottom: -100px;
     background-color: #010e80;
 }
+
+footer p {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    text-align: center;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    width: 100%;
+}
