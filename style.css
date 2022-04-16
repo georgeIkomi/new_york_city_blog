@@ -60,3 +60,14 @@ img {
     position: relative;
     right: 28px;
 }
+
+aside {
+    left: 10px;
+    border: 1px solid black;
+    padding: 15px;
+    max-width: 80%;
+    position: relative;
+    border-color: #010e80;
+    border-width: 5px;
+    font-size: 18px;
+}
