@@ -94,3 +94,10 @@ footer a {
     text-align: center;
     width: 100%;
 }
+
+video {
+    display: block;
+    width: 420px;
+    height: 250px;
+    padding: 15px;
+}
