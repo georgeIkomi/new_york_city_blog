@@ -71,3 +71,10 @@ aside {
     border-width: 5px;
     font-size: 18px;
 }
+
+footer {
+    position: relative;
+    width: 100%;
+    bottom: -100px;
+    background-color: #010e80;
+}
