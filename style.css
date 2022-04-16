@@ -11,3 +11,15 @@ nav ul {
     display: table;
     width: 100%;
 }
+
+nav li {
+    display: table-cell;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 30px;
+    text-decoration: none;
+}
