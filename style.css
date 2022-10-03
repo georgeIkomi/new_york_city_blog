@@ -95,6 +95,10 @@ footer a {
     width: 100%;
 }
 
+.footer-parag {
+    font-size: 1.5rem;
+}
+
 video {
     display: block;
     width: 420px;
